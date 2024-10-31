@@ -1,5 +1,7 @@
 <p align="center">
-    <img width="150px" src="https://raw.githubusercontent.com/ElryGH/HikariWatch/refs/heads/main/Logo.png"/>
+    <a href="/">
+        <img width="150px" src="https://raw.githubusercontent.com/ElryGH/HikariWatch/refs/heads/main/Logo.png"/>
+    <a>
     <h1 align="center">HikariWatch</h1>
 </p>
 

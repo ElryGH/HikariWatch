@@ -39,11 +39,6 @@ HikariWatch is designed for anime fans who want a hassle-free viewing experience
 * Show what you're watching on Discord to share the fun with friends.
 * Legal App, through extension-based functionality.
 
-## About HW
-
-_HikariWatch_ is completely cross-platform.</br>
-If you encounter any problems installing for your OS, feel free to reach out in the issues section.
-
 ## Extension Support
 
 For problems with sources or to request new sources, please visit [DaExtensionMan's Repository](https://github.com/DaExtensionMan/HikariExtensions).</br>

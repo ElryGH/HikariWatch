@@ -26,10 +26,11 @@
   </a>
 </p>
 
-# The All-in-One Anime App
+# The All-in-One Anime PC App
 
-The ultimate anime-watching experience!</br>
-It’s the best app you’ll ever use for seamless, ad-free anime viewing.
+The ultimate anime-watching experience for PC!</br>
+It’s the best app you’ll ever use for seamless, ad-free anime viewing.</br>
+Watch on your PC & control it via your Phone.
 
 # Features
 
@@ -43,7 +44,6 @@ HikariWatch is designed for anime fans who want a hassle-free, immersive experie
   * Tracking your watched series and episodes (requires Anilist account).
 * Show what you're watching on Discord to share the fun with friends.
 * Use the Android app as a remote control for the PC App.
-  * Making it easy to watch from anywhere in the room.
 * Legal app structure through extension-based functionality, giving you full control over content.
 
 ## Extension Support
@@ -75,7 +75,6 @@ To build HikariWatch from source, ensure you have:
    - For Windows: Select `File > Build Settings`, choose `PC, Mac & Linux Standalone`, and click `Build`.
    - For Linux: Select `File > Build Settings`, choose `Linux`, and click `Build`.
    - For Android: Select `File > Build Settings`, choose `Android`, and click `Build`.
-4. If you're compiling for macOS/iOS: ¯\\_(ツ)_/¯ I dunno, man. Figure it out!
 
 ## Contributing
 

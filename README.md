@@ -28,9 +28,9 @@
 
 # The All-in-One Anime PC App
 
-The ultimate anime-watching experience for PC!</br>
+The ultimate anime-watching experience for any Device!</br>
 It’s the best app you’ll ever use for seamless, ad-free anime viewing.</br>
-Watch on your PC & control it via your Phone.
+The best ? Watch on your PC & control it via your Phone.
 
 # Features
 

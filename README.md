@@ -1,6 +1,6 @@
 <p align="center">
     <a href="/">
-        <img width="150px" src="https://raw.githubusercontent.com/ElryGH/HikariWatch/refs/heads/main/Logo.png"/>
+        <img width="120px" src="https://raw.githubusercontent.com/ElryGH/HikariWatch/refs/heads/main/Logo.png"/>
     <a>
     <h1 align="center">HikariWatch</h1>
 </p>
@@ -26,33 +26,47 @@
   </a>
 </p>
 
+# The All-in-One Anime App
+
+The ultimate anime-watching experience!</br>
+It’s the best app you’ll ever use for seamless, ad-free anime viewing.
+
 # Features
 
-HikariWatch is designed for anime fans who want a hassle-free viewing experience. With HikariWatch, you can:
+HikariWatch is designed for anime fans who want a hassle-free, immersive experience.
 
 * Seamlessly watch anime with no ads or interruptions—just click to watch!
-* Select a source website or choose a random one to start streaming immediately.
+* Choose from various streaming sources, or select a random one to jump right in.
 * Keep track of where you left off mid-video, so you can pick up right where you left off.
-* Integrate with Anilist:
-  * Get anime information, news, and recommendations.
-  * Track your watched series and episodes (requires Anilist account).
+* Use Anilist Integration for:
+  * Anime information, news, and recommendations.
+  * Tracking your watched series and episodes (requires Anilist account).
 * Show what you're watching on Discord to share the fun with friends.
-* Legal App, through extension-based functionality.
+* Use the Android app as a remote control for the PC App.
+  * Making it easy to watch from anywhere in the room.
+* Legal app structure through extension-based functionality, giving you full control over content.
 
 ## Extension Support
 
-For problems with sources or to request new sources, please visit [DaExtensionMan's Repository](https://github.com/DaExtensionMan/HikariExtensions).</br>
-He is the one developing and maintaining the Extensions for Hikari. Im responsible for the App itself.
+HikariWatch relies on user-loaded extensions, enabling flexible access to a variety of streaming sources:
+
+**Adding Extensions**: 
+   - On the app’s first start, select **Add Extension Repository**.
+   - Enter a repository URL to load a library of anime sources.
+   - `https://github.com/DaExtensionMan/Hikari-Extensions/tree/main/Extensions`
+
+For troubleshooting or to request additional sources, visit [DaExtensionMan's Repository](https://github.com/DaExtensionMan/Hikari-Extensions).</br>
+He develops and maintains these extensions as a close friend, though he doesn’t use Discord. I handle the main app itself.
 
 ## Building
 
-#### You should nearly always use the prebuild Binarys under [Releases](https://github.com/ElryGH/HikariWatch/releases), unless you are a Developer.
+#### If you're not a developer, use the prebuilt binaries under [Releases](https://github.com/ElryGH/HikariWatch/releases).
 
 ### Dependencies
 
-To build the HikariWatch app, ensure you have the following installed:
+To build HikariWatch from source, ensure you have:
 
-* [Unity 6](https://unity.com/) (preferably the latest LTS version).
+* [Unity 6](https://unity.com/) (latest LTS version recommended).
 
 ### Compiling the App
 
@@ -66,12 +80,12 @@ To build the HikariWatch app, ensure you have the following installed:
 
 ## Contributing
 
-Any contribution is appreciated!
+Your contributions are welcome!
 
-1. Fork it!
-2. Create your feature branch.
+1. Fork the repository.
+2. Create a feature branch.
 3. Commit your changes.
-4. Push to the branch.
+4. Push to your branch.
 5. Submit a pull request.
 
 ## License

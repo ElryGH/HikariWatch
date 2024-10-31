@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="120px" src="Lcon.png"/>
+    <img width="150px" src="https://raw.githubusercontent.com/ElryGH/HikariWatch/refs/heads/main/Logo.png"/>
     <h1 align="center">HikariWatch</h1>
 </p>
 

@@ -30,18 +30,19 @@
 
 HikariWatch is designed for anime fans who want a hassle-free viewing experience. With HikariWatch, you can:
 
-* **Seamlessly watch anime** with no ads or interruptions—just click to watch!
-* **Select a source website** or choose a random one to start streaming immediately.
-* **Keep track of where you left off** mid-video, so you can pick up right where you left off.
-* **Integrate with Anilist**:
+* Seamlessly watch anime with no ads or interruptions—just click to watch!
+* Select a source website or choose a random one to start streaming immediately.
+* Keep track of where you left off mid-video, so you can pick up right where you left off.
+* Integrate with Anilist:
   * Get anime information, news, and recommendations.
   * Track your watched series and episodes (requires Anilist account).
-* **Show off what you're watching** on Discord to share the fun with friends.
-* **Legal App** through extension-based functionality.
+* Show what you're watching on Discord to share the fun with friends.
+* Legal App, through extension-based functionality.
 
 ## About HW
 
-_HikariWatch_ is completely cross-platform. If you encounter any problems installing for your OS, feel free to reach out in the issues section.
+_HikariWatch_ is completely cross-platform.</br>
+If you encounter any problems installing for your OS, feel free to reach out in the issues section.
 
 ## Extension Support
 
@@ -56,20 +57,17 @@ He is the one developing and maintaining the Extensions for Hikari. Im responsib
 
 To build the HikariWatch app, ensure you have the following installed:
 
-* [Unity 6](https://unity.com/) (preferably the latest version).
+* [Unity 6](https://unity.com/) (preferably the latest LTS version).
 
 ### Compiling the App
 
-1. **Clone the repository**:
-
-2. **Open the project in Unity**.
-
-3. **Build for your desired platform**:
-   - **For Windows**: Select `File > Build Settings`, choose `PC, Mac & Linux Standalone`, and click `Build`.
-   - **For Linux**: Select `File > Build Settings`, choose `Linux`, and click `Build`.
-   - **For Android**: Select `File > Build Settings`, choose `Android`, and click `Build`.
-
-4. **If you're compiling for macOS/iOS**: ¯\\_(ツ)_/¯ I dunno, man. Figure it out!
+1. Clone the repository.
+2. Open the project in Unity.
+3. Build for your desired platform:
+   - For Windows: Select `File > Build Settings`, choose `PC, Mac & Linux Standalone`, and click `Build`.
+   - For Linux: Select `File > Build Settings`, choose `Linux`, and click `Build`.
+   - For Android: Select `File > Build Settings`, choose `Android`, and click `Build`.
+4. If you're compiling for macOS/iOS: ¯\\_(ツ)_/¯ I dunno, man. Figure it out!
 
 ## Contributing
 
@@ -77,7 +75,7 @@ Any contribution is appreciated!
 
 1. Fork it!
 2. Create your feature branch.
-3. Commit your changes.`
+3. Commit your changes.
 4. Push to the branch.
 5. Submit a pull request.
 

@@ -56,7 +56,6 @@ HikariWatch relies on user-loaded extensions, enabling flexible access to a vari
    - `https://github.com/DaExtensionMan/Hikari-Extensions/tree/main/Extensions`
 
 For troubleshooting or to request additional sources, visit [DaExtensionMan's Repository](https://github.com/DaExtensionMan/Hikari-Extensions).</br>
-He develops and maintains these extensions as a close friend, though he doesn’t use Discord. I handle the main app itself.
 
 ## Building
 

@@ -62,10 +62,6 @@ To build the HikariWatch app, ensure you have the following installed:
 
 1. **Clone the repository**:
 
-    ```bash
-    git clone --recursive https://github.com/YourUsername/HikariWatch.git
-    ```
-
 2. **Open the project in Unity**.
 
 3. **Build for your desired platform**:
@@ -80,13 +76,13 @@ To build the HikariWatch app, ensure you have the following installed:
 Any contribution is appreciated!
 
 1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
+2. Create your feature branch.
+3. Commit your changes.`
+4. Push to the branch.
 5. Submit a pull request.
 
 ## License
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 License - see the [LICENSE](https://opensource.org/licenses/GPL-3.0) for details.
 
 Created & maintained by [Elry](https://github.com/ElryGH).

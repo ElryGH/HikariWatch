@@ -45,7 +45,8 @@ _HikariWatch_ is completely cross-platform. If you encounter any problems instal
 
 ## Extension Support
 
-For problems with sources or to request new sources, please visit [DaExtensionMan's Repository](https://github.com/DaExtensionMan). We encourage you to fork this repository and keep a local copy in case of DMCA takedowns, ensuring we can maintain our extensions.
+For problems with sources or to request new sources, please visit [DaExtensionMan's Repository](https://github.com/DaExtensionMan/HikariExtensions).</br>
+He is the one developing and maintaining the Extensions for Hikari. Im responsible for the App itself.
 
 ## Building
 
